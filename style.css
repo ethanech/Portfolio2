@@ -1,8 +1,9 @@
 body {
     background-color: lightblue;
 }
-.NavBar {
-    width:100%;
-    height:10%;
-    background-color:#b6294d;
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color:red;
 }

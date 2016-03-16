@@ -6,9 +6,9 @@ ul {
     margin: 0;
     padding: 0;
     background-color:red;
+    width:60px;
 }
 
 li a {
     display: block;
-    width: 60px;
 }

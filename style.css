@@ -7,6 +7,7 @@ ul {
     padding: 0;
     background-color:red;
     width:60px;
+    display:inline;
 }
 
 li a {
